@@ -5,6 +5,7 @@
 
 #使用方法
 > python3 merge.py -h
+
 > python3 merge.py /mnt/ssd /mnt/hdd /mnt/merged --size_th=1024 --debug=1
 
 > 依赖:pip install fusepy
