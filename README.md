@@ -10,6 +10,8 @@
 
 > 依赖:pip install fusepy
 
+- 可用sum.sh对目录进行小文件统计分析:
+> ./sum.sh /dir_path
+
 - 已有文件系统请使用size_fix.py完成大小文件分拣。
 > python3 size_fix.py /mnt/ssd /mnt/hdd --size_th=1024
-
